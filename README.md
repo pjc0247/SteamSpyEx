@@ -1,1 +1,3 @@
 # SteamSpyEx
+
+![](preview.png)
